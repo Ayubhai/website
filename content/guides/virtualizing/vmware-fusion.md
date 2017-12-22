@@ -53,7 +53,8 @@ After downloading the ISO image, unzip the file and in the folder, you will see 
 
 ##### Step 3. Selecting the location.
 
-**TODO**
+Click on installer disk image and then click on browse.
+Specify the file location and click next.
 
 ##### Step 4. Selecting type of Operating System.
 
@@ -61,15 +62,16 @@ For the operating system, select Other. For version, do take note to make sure t
 
 ##### Step 5. Naming the virtual machine.
 
-**TODO**
+Now name the virtual machine.The name of the virtual machine will help you find the virtual machine in your list.
+For this method I will name it "Haiku".
 
 ##### Step 6. Specifying Disk space.
 
-**TODO**
+When you create a virtual machine,it stores the data in your hard disk.You must specify the maximum amount of data the vm can use in your hard disk.The space starts from being small and keeps on expanding as you keep on adding data.The deafult space will be 8 GB.
 
 ##### Step 7. Adjusting Memory.
 
-**TODO**
+You can either store the virtual disk as a single file or split it into multiple files.Splitting will help you to move the virtual machine to another desktop but may reduce performance with large disks.
 
 ##### Step 8. Starting the Virtual Machine.
 
